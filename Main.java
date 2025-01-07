@@ -14,7 +14,7 @@ public class Main {
 
         String[] a = {"A", "B", "C", "D", "E"};
         String newString= "F";
-        
+
 
 
     }
